@@ -36,15 +36,15 @@ Surface plane, al hoewel is mijn website volledig responsive.
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://brentjeh.github.io/blokweb/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepage  
+<img src="images/screenshot_homepage.png" width="375px" alt="De homepage. Hier zie je alle color palettes waar je uit kan kiezen.">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Color Palette Page 
+<img src="images/screenshot_colorpalettepage.png" width="375px" alt="Pagina als je op een color palette hebt geklikt via de homepage. Hier zie je de voledige color palette.">
  
 </details>
 
