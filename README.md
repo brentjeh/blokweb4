@@ -76,7 +76,7 @@ Color Palette Page
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was in de eerste week nog niet ver gekomen. Ik had al een idee welke website ik na wilde maken. Ik koos voor deze website omdat het veel verschillende inhoud had, en omdat ik wel van een uitdaging hou. 
 
 
 ### Agenda voor meeting
@@ -90,12 +90,9 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Ik had zelf geen vragen aangezien ik nog niet ver was met mijn website. Ik had overigens een paar lessen gemist omdat ik ziek was. Ik was wel bij het gesprek, om te kijken of anderen teamleden vragen hadden waarvan ik ook nog wat kon opsteken.
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- punt 1: Ik vertelde dat ik nog niet ver was, en alleen een klein idee had van welke website ik wilde maken. Ik kreeg van Vasilis de feedback om wel snel te beginnen.
 
 </details>
 
@@ -109,7 +106,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik begon met het maken van mijn website. Ik had voor een groot deel al de HTML en CSS voor de homepage klaar. 
 
 
 ### Agenda voor meeting
