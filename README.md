@@ -106,7 +106,7 @@ Ik had zelf geen vragen aangezien ik nog niet ver was met mijn website. Ik had o
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Ik begon met het maken van mijn website. Ik had al een soort structuur bedacht en had dit ook al gerealiseerd in HTML. Ik had voor een groot deel al de HTML en CSS voor de homepage klaar. Om alles responsive te houden begon ik eerst met flexbox. Dit lukte eerst vrij goed, maar hoe verder ik aan het werk was met mijn code hoe meer ik me realiseerde dat onoverzichtelijk werd en dat ik telkens dingen moest veranderen om de responsiveness te behouden, wat ik niet mooi vond. Ik begon ook al aan de CSS, wat het lastigere was de twee.
+Ik begon met het maken van mijn website. Ik had al een soort structuur bedacht en had dit ook al gerealiseerd in HTML. Ik had voor een groot deel al de HTML en CSS voor de homepage klaar. Om alles responsive te houden begon ik eerst met flexbox. Dit lukte eerst vrij goed, maar hoe verder ik aan het werk was met mijn code hoe meer ik me realiseerde dat onoverzichtelijk werd en dat ik telkens dingen moest veranderen om de responsiveness te behouden, wat ik niet mooi vond. Ik begon ook al aan de CSS, wat het lastigere was van de twee.
 
 
 ### Agenda voor meeting
@@ -138,26 +138,17 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 1.   Kleuren contrast was goed.
 2.   Ik had weining alt tags op mijn website. Hierdoor kunnen bezoekers met een visuele beperking niet horen waar bijvoorbeeld een foto over gaat.
-3.   Mijn website houd geen rekening met mensen die doof zijn.
-4.   Mijn website doet wat er van de gebruiker verwacht wordt.
+3.   Mijn website doet wat er van de gebruiker verwacht wordt.
 
-#### Kleuren contrast was goed
+#### 1. Kleuren contrast was goed
 Een bevinding die me meteen al duidelijk was is dat de kleuren contrast goed is. Bovendien heb ik de kleuren van de site overgenomen, dus het is niet heel gek dat de orginele        maker van de website hier al rekening mee heeft gehouden. Omdat er veel verschillende kleuren worden gebruikt kan het zijn dat sommige kleuren in de color palette wel erg op          elkaar lijken. Maar dit is een beetje het probleem waar je sowieso wel tegen aan loopt als je een website maakt die te maken heeft met kleuren en de vele verschillende varianten      van deze kleuren.
 
-#### Weinig alt tags
+#### 2. Weinig alt tags
 Ik had weining alt tags op mijn website. Hierdoor kunnen bezoekers met een visuele beperking niet horen waar bijvoorbeeld een foto over gaat. Als je blind bent heeft het niet heel veel zin om mijn website te gebruiken, aangezien blinde mensen geen kleuren kunnen zien. Toch heb ik gekozen om het wel toegankelijk te maken voor blinde mensen, aangezien je niet altijd weet wat hun intenties zijn op jou website.
 Ik heb voor elke video, foto, en waar het nog meer nodig is (bij color palettes bijvoorbeeld) alt tags neergezet zodat ook bezoekers met een visuele beperking toegang hebben tot de website.
 
-#### Geen rekening met mensen die doof zijn.
-Mijn website houd geen rekening met mensen die doof zijn. Ook al geld dit eigenlijk alleen voor de video op mijn website, is het toch belangrijk dat de dove gebruiker wel gebruik kan maken van de video.
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### 4. Mijn website doet wat er van de gebruiker verwacht wordt.
-Door de website zo in te stellen dat de gebruiker kan verwachten wat er gebeurt als hij interactie heeft met bepaalde elemenenten, 
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### 3. Mijn website doet wat er van de gebruiker verwacht wordt.
+Door de website zo in te stellen dat de gebruiker kan verwachten wat er gebeurt als hij interactie heeft met bepaalde elemenenten. Ook al is dit niet persee iets waar mensen met een beperking tegen aan lopen, vond ik het toch belangrijk om dit te noteren aangezien het wel bijdraagt aan de toegankelijkheid van de website. Voorbeelden van deze verwachtingen zijn dat als je op een van de color palettes klikt, dat je naar de color palette toegebracht wordt.
 
 </details>
 
@@ -173,7 +164,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ### Stand van zaken
 Wat minder goed ging was dat ik overnieuw moest beginnen met mijn code. Althans, moest niet, maar ik koos hier zelf voor omdat de code zo compliceert werd dat ik telkens tegen een nieuw probleem aan liep. Overigens was dat ook niet de bedoeling van de opdracht, de code moest mooi zijn. Responsiveness werkte door de over gecompliceerde code niet zoals ik wilde, veel objecten in mijn html begonnen over elkaar heen te lopen en de styling werkte niet zoals hoe ik het wilde. Op dit punt raadpleegde ik de studentassistenten, in de hoop ze een betere manier hadden van het maken van een responsive website. Een van de studentassistenten gaf me het advies om met CSS grid te werken. Ik was hier eerst best skeptisch over, aangezien ik nooit met grid had gewerkt, en bang was dat het leren van CSS grid veel extra tijd ging kosten waarvan ik al niet heel veel had. Uiteindelijk gaf ik het een kans en besloot me te verdiepen in grid, waardoor ik er vrij snel achterkwam dat de basis van grid niet heel moeilijk was, en dat het gebruiken van grid (voor mij) een stuk makkelijker was dan het gebruiken van flex box. Dankzij grid heb ik ook de hele website responsive kunnen maken. Verder heb ik van unsplash en van pixabay foto's en video's gehaald om als vervanging te gebruiken van de foto's die je op de site had.
  
-Wat dus wel goed ging was het gebruiken van CSS grid. Grid maakte het voor mij erg makkelijk om de site volledig responsive te maken, zonder al te veel andere CSS elementen toe te voegen. Ook ging het overnieuw coderen van de website vrij makkelijk en liep tegen vrij weinig problemen aan. Verder, om een javascript item toe te voegen aan mijn project, besloot ik een carousel te maken. Ik ben niet de grootste expert in javascript, dus uitvogelen hoe ik dat ging aanpakken was nog best lastig. Met behulp van sites kreeg ik het toch voor elkaar een carousel in elkaar te zetten. Helaas is dit niet helemaal op dezelfde manier gedaan als op de site, maar heb ik wel hetzelfde idee kunnen nabootsen. 
+Wat dus wel goed ging was het gebruiken van CSS grid. Grid maakte het voor mij erg makkelijk om de site volledig responsive te maken, zonder al te veel andere CSS elementen toe te voegen. Ik heb de website niet alleen met grid responsive gemaakt, dus door bepaalde media queries te gebruiken heb ik de website ook afgesteld op tablet voormaat en mobiel formaat. Ook ging het overnieuw coderen van de website vrij makkelijk en liep tegen vrij weinig problemen aan. Verder, om een javascript item toe te voegen aan mijn project, besloot ik een carousel te maken. Ik ben niet de grootste expert in javascript, dus uitvogelen hoe ik dat ging aanpakken was nog best lastig. Met behulp van sites kreeg ik het toch voor elkaar een carousel in elkaar te zetten. Helaas is dit niet helemaal op dezelfde manier gedaan als op de site, maar heb ik wel hetzelfde idee kunnen nabootsen. 
 
 
 ### Agenda voor meeting
