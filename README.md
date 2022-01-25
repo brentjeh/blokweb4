@@ -214,6 +214,13 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+ 
+<img src="images/final_homepage1" width="375px" alt="homepage 1ste deel">
+<img src="images/final_homepage2" width="375px" alt="homepage 2de deel">
+<img src="images/final_homepage3" width="375px" alt="homepage 3de deel">
+<img src="images/final_colorpalette" width="375px" alt="color palette">
+
+
 
 </details>
 
@@ -228,8 +235,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+Icoontjes	 https://ionic.io/ionicons/v4
+Fotos		    https://unsplash.com/
+Video 		   https://pixabay.com/videos/road-movement-sunset-sun-moscow-84970/
 
 </details>
