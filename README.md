@@ -136,7 +136,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+1.   Een bevinding die me meteen al duidelijk was is dat de kleuren contrast goed is. Bovendien heb ik de kleuren van de site overgenomen, dus het is niet heel gek dat de orginele        maker van de website hier al rekening mee heeft gehouden. Omdat er veel verschillende kleuren worden gebruikt kan het zijn dat sommige kleuren in de color palette wel erg op          elkaar lijken. Maar dit is een beetje het probleem waar je sowieso wel tegen aan loopt als je een website maakt die te maken heeft met kleuren en de vele verschillende varianten      van deze kleuren.
+2.   
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
