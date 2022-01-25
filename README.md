@@ -209,7 +209,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Wat minder goed ging is dat ik mijn tijd slecht gepland had. Uiteindelijk heb ik wel mijn website af kunnen maken en heb ik de surface plane kunnen uitbreiden. Er waren tijden tijdens het werken dat ik sneller dingen moest afraffelen, ook al waren er ook momenten waar ik rustig de tijd had om de website in elkaar te zetten. Ik heb een paar keer overnieuw moeten beginnen, wat het nog lastiger maakt, omdat ik in mijn eigen code verdwaald raakte. Ook pakte ik het responsive maken van de website niet goed aan, waardoor ik telkens tegen een nieuw probleem liep wanneer ik een ander probleem probeerde op te lossen.
+ 
+Wat wel goed ging is dat de website natuurlijk af is. Ik heb veel geleerd, ik heb geleerd met grid te werken (wat ik persoonlijk toch fijner vind dan flexbox, omdat ik met flexbox telkens met de height van objecten aan het klooien was en met grid kon je een aspect ratio instellen, waardoor de height automatisch responsive was (het zou goed kunnen dat er ook een manier is om dit te doen met flexbox, zonder dat ik dit weet) maar toch vond ik het fijner om met grid te werken zodat je zelf ook het aantal columns en rows kon instellen). 
 
 ### Screenshot(s)
 
@@ -235,8 +237,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-Icoontjes	 https://ionic.io/ionicons/v4
-Fotos		    https://unsplash.com/
-Video 		   https://pixabay.com/videos/road-movement-sunset-sun-moscow-84970/
+Icoontjes	    https://ionic.io/ionicons/v4
+Fotos		       https://unsplash.com/
+Video 		      https://pixabay.com/videos/road-movement-sunset-sun-moscow-84970/
 
 </details>
