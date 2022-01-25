@@ -76,7 +76,7 @@ Color Palette Page
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik was in de eerste week nog niet ver gekomen. Ik had al een idee welke website ik na wilde maken. Ik koos voor deze website omdat het veel verschillende inhoud had, en omdat ik wel van een uitdaging hou. 
+Ik was in de eerste week nog niet ver gekomen. Ik had al een idee welke website ik na wilde maken. Ik koos voor deze website omdat het veel verschillende inhoud had, en omdat ik wel van een uitdaging hou. Op de website kan je color palettes vinden, en de kleuren in deze color palettes kopieren en plakken. Ik had al een idee hoe ik dit met flexbox wilde aanpakken. Ik ging opzoek naar verschillende manieren hoe je dit anders dan met flexbox aan kon pakken, maar kwam tot de conclusie om het eerst maar met flexbox te proberen. Bovendien was ik lang bezig met het bedenken van manieren hoe ik het project aan ging pakken, terwijl ik ook gewoon kon beginnen met het schrijven van code en vanaf dan zien wat het meest toepasselijk is.
 
 
 ### Agenda voor meeting
@@ -84,8 +84,8 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Hoe je een ca- | Hoe maak je een    | en ik dit    | en dan ik dat    |
+| ousel maakt    | search bar         | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
