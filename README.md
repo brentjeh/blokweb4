@@ -90,7 +90,7 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-Ik had zelf geen vragen aangezien ik nog niet ver was met mijn website. Ik had overigens een paar lessen gemist omdat ik ziek was. Ik was wel bij het gesprek, om te kijken of anderen teamleden vragen hadden waarvan ik ook nog wat kon opsteken.
+Ik had zelf geen vragen aangezien ik nog niet ver was met mijn website. Ik had overigens een paar lessen gemist omdat ik ziek was. Ik was wel bij het gesprek, om te kijken of anderen teamleden vragen hadden waarvan ik ook nog wat van op kon opsteken.
 
 - punt 1: Ik vertelde dat ik nog niet ver was, en alleen een klein idee had van welke website ik wilde maken. Ik kreeg van Vasilis de feedback om wel snel te beginnen.
 
@@ -176,7 +176,9 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-Wat minder goed ging was dat ik overnieuw moest beginnen met mijn code. Althans, moest niet, maar ik koos hier zelf voor omdat de code zo compliceert werd dat ik telkens tegen een nieuw probleem aan liep. Overigens was dat ook niet de bedoeling van de opdracht, de code moest mooi zijn. Responsiveness werkte door de over gecompliceerde code niet zoals ik wilde
+Wat minder goed ging was dat ik overnieuw moest beginnen met mijn code. Althans, moest niet, maar ik koos hier zelf voor omdat de code zo compliceert werd dat ik telkens tegen een nieuw probleem aan liep. Overigens was dat ook niet de bedoeling van de opdracht, de code moest mooi zijn. Responsiveness werkte door de over gecompliceerde code niet zoals ik wilde, veel objecten in mijn html begonnen over elkaar heen te lopen en de styling werkte niet zoals hoe ik het wilde. Op dit punt raadpleegde ik de studentassistenten, in de hoop ze een betere manier hadden van het maken van een responsive website. Een van de studentassistenten gaf me het advies om met CSS grid te werken. Ik was hier eerst best skeptisch over, aangezien ik nooit met grid had gewerkt, en bang was dat het leren van CSS grid veel extra tijd ging kosten waarvan ik al niet heel veel had. Uiteindelijk gaf ik het een kans en besloot me te verdiepen in grid, waardoor ik er vrij snel achterkwam dat de basis van grid niet heel moeilijk was, en dat het gebruiken van grid (voor mij) een stuk makkelijker was dan het gebruiken van flex box. Dankzij grid heb ik ook de hele website responsive kunnen maken. Verder heb ik van unsplash en van pixabay foto's en video's gehaald om als vervanging te gebruiken van de foto's die je op de site had.
+ 
+Wat dus wel goed ging was het gebruiken van CSS grid. Grid maakte het voor mij erg makkelijk om de site volledig responsive te maken, zonder al te veel andere CSS elementen toe te voegen. Ook ging het overnieuw coderen van de website vrij makkelijk en liep tegen vrij weinig problemen aan.
 
 
 ### Agenda voor meeting
