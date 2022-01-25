@@ -139,6 +139,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 1.   Kleuren contrast was goed.
 2.   Ik had weining alt tags op mijn website. Hierdoor kunnen bezoekers met een visuele beperking niet horen waar bijvoorbeeld een foto over gaat.
 3.   Mijn website doet wat er van de gebruiker verwacht wordt.
+4.   Mijn website is toegankelijk voor mensen met een motorieke handicap.
 
 #### 1. Kleuren contrast was goed
 Een bevinding die me meteen al duidelijk was is dat de kleuren contrast goed is. Bovendien heb ik de kleuren van de site overgenomen, dus het is niet heel gek dat de orginele        maker van de website hier al rekening mee heeft gehouden. Omdat er veel verschillende kleuren worden gebruikt kan het zijn dat sommige kleuren in de color palette wel erg op          elkaar lijken. Maar dit is een beetje het probleem waar je sowieso wel tegen aan loopt als je een website maakt die te maken heeft met kleuren en de vele verschillende varianten      van deze kleuren.
@@ -149,6 +150,9 @@ Ik heb voor elke video, foto, en waar het nog meer nodig is (bij color palettes 
 
 #### 3. Mijn website doet wat er van de gebruiker verwacht wordt.
 Door de website zo in te stellen dat de gebruiker kan verwachten wat er gebeurt als hij interactie heeft met bepaalde elemenenten. Ook al is dit niet persee iets waar mensen met een beperking tegen aan lopen, vond ik het toch belangrijk om dit te noteren aangezien het wel bijdraagt aan de toegankelijkheid van de website. Voorbeelden van deze verwachtingen zijn dat als je op een van de color palettes klikt, dat je naar de color palette toegebracht wordt.
+ 
+#### 4. Toegankelijk voor mensen met een motorieke handicap.
+Door de toegankelijkheid voor mensen met een motorieke handicap van de website zelf te testen heb ik een apparaat gebruikt die je op je huid kan zetten en die je constant schokken geeft. Door de schokken trilt je arm erg en wordt het lastiger om accuraat op items op de website te klikken. De conclusie die ik trok was dat de website makkelijk te bedienen is. De color palette DIVS zijn groot, de items in de More tools and products section waren ook groot genoeg om geklikt te worden. Zelfs de links in de header en footer waren niet moeilijk om te gebruiken.
 
 </details>
 
