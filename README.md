@@ -136,29 +136,26 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-1.   Een bevinding die me meteen al duidelijk was is dat de kleuren contrast goed is. Bovendien heb ik de kleuren van de site overgenomen, dus het is niet heel gek dat de orginele        maker van de website hier al rekening mee heeft gehouden. Omdat er veel verschillende kleuren worden gebruikt kan het zijn dat sommige kleuren in de color palette wel erg op          elkaar lijken. Maar dit is een beetje het probleem waar je sowieso wel tegen aan loopt als je een website maakt die te maken heeft met kleuren en de vele verschillende varianten      van deze kleuren.
-2.   
+1.   Kleuren contrast was goed.
+2.   Ik had weining alt tags op mijn website. Hierdoor kunnen bezoekers met een visuele beperking niet horen waar bijvoorbeeld een foto over gaat.
+3.   Mijn website houd geen rekening met mensen die doof zijn.
+4.   Mijn website doet wat er van de gebruiker verwacht wordt.
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Kleuren contrast was goed
+Een bevinding die me meteen al duidelijk was is dat de kleuren contrast goed is. Bovendien heb ik de kleuren van de site overgenomen, dus het is niet heel gek dat de orginele        maker van de website hier al rekening mee heeft gehouden. Omdat er veel verschillende kleuren worden gebruikt kan het zijn dat sommige kleuren in de color palette wel erg op          elkaar lijken. Maar dit is een beetje het probleem waar je sowieso wel tegen aan loopt als je een website maakt die te maken heeft met kleuren en de vele verschillende varianten      van deze kleuren.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Weinig alt tags
+Ik had weining alt tags op mijn website. Hierdoor kunnen bezoekers met een visuele beperking niet horen waar bijvoorbeeld een foto over gaat. Als je blind bent heeft het niet heel veel zin om mijn website te gebruiken, aangezien blinde mensen geen kleuren kunnen zien. Toch heb ik gekozen om het wel toegankelijk te maken voor blinde mensen, aangezien je niet altijd weet wat hun intenties zijn op jou website.
+Ik heb voor elke video, foto, en waar het nog meer nodig is (bij color palettes bijvoorbeeld) alt tags neergezet zodat ook bezoekers met een visuele beperking toegang hebben tot de website.
 
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Geen rekening met mensen die doof zijn.
+Mijn website houd geen rekening met mensen die doof zijn. Ook al geld dit eigenlijk alleen voor de video op mijn website, is het toch belangrijk dat de dove gebruiker wel gebruik kan maken van de video.
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### 4. Mijn website doet wat er van de gebruiker verwacht wordt.
+Door de website zo in te stellen dat de gebruiker kan verwachten wat er gebeurt als hij interactie heeft met bepaalde elemenenten, 
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
